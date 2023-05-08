@@ -6,7 +6,7 @@ namespace DemoIsvedimas
     {
         static void Main(string[] args)
         {
-            // lietuviškų simbolių rodymas
+            // Lietuviškų simbolių rodymas
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             Console.WriteLine("Labas, pasauli!");
