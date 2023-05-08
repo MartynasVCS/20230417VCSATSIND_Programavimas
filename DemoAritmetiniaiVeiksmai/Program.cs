@@ -40,6 +40,33 @@ namespace DemoAritmetiniaiVeiksmai
 
             // Dalyba iš nulio
             Console.WriteLine(1 / 0.0);
+            Console.WriteLine();
+
+            // Kintamojo reikšmės perrašymas panaudojant prieš tai buvusią reikšmę
+            int skaicius = 11;
+            skaicius = skaicius + 5;
+            skaicius += 5;
+            skaicius -= 5;
+            skaicius *= 2;
+
+            // Skaičiaus didinimas / mažinimas vienetu
+            skaicius = 10;
+            Console.WriteLine(skaicius);
+            Console.WriteLine(skaicius++);
+            Console.WriteLine(skaicius++);
+            Console.WriteLine(skaicius++);
+            Console.WriteLine(skaicius++);
+            Console.WriteLine(skaicius);
+            Console.WriteLine();
+
+            skaicius = 10;
+            Console.WriteLine(skaicius);
+            Console.WriteLine(++skaicius);
+            Console.WriteLine(++skaicius);
+            Console.WriteLine(++skaicius);
+            Console.WriteLine(++skaicius);
+            Console.WriteLine(skaicius);
+            Console.WriteLine();
         }
     }
 }
