@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoIsvedimas", "DemoIsvedi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis01", "Uzduotis01\Uzduotis01.csproj", "{6996AC81-6ECF-453B-A99E-02BD45C27465}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Aritmetiniai veiksmai", "03 Aritmetiniai veiksmai", "{F59BDB76-3ECF-47D0-99BA-BAF1319CD86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAritmetiniaiVeiksmai", "DemoAritmetiniaiVeiksmai\DemoAritmetiniaiVeiksmai.csproj", "{5F323668-B26E-427A-824E-D3F854D56E6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,10 @@ Global
 		{6996AC81-6ECF-453B-A99E-02BD45C27465}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6996AC81-6ECF-453B-A99E-02BD45C27465}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6996AC81-6ECF-453B-A99E-02BD45C27465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F323668-B26E-427A-824E-D3F854D56E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F323668-B26E-427A-824E-D3F854D56E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F323668-B26E-427A-824E-D3F854D56E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F323668-B26E-427A-824E-D3F854D56E6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +47,7 @@ Global
 		{0418158F-8BF8-426C-93B7-E5B4B09D6666} = {9FD168F2-7E29-4DF2-A4B3-6E09D818A42C}
 		{7B2289B3-0354-4560-9D08-EC9EE0A80B60} = {18869C67-78C3-4D78-B15A-B31779A58FDF}
 		{6996AC81-6ECF-453B-A99E-02BD45C27465} = {18869C67-78C3-4D78-B15A-B31779A58FDF}
+		{5F323668-B26E-427A-824E-D3F854D56E6C} = {F59BDB76-3ECF-47D0-99BA-BAF1319CD86D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C9C18C5C-519E-4067-A174-F0621CA55259}
