@@ -43,6 +43,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07 For Ciklas", "07 For Cik
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoForCiklas", "DemoForCiklas\DemoForCiklas.csproj", "{819714AA-0DD1-49C8-BA02-F1DD87140F6E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08 While Ciklas", "08 While Ciklas", "{6A10BF1F-3A90-49EA-9032-61300445EFB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWhileCiklas", "DemoWhileCiklas\DemoWhileCiklas.csproj", "{2884290B-A983-4070-A661-10A215E6D9E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +105,10 @@ Global
 		{819714AA-0DD1-49C8-BA02-F1DD87140F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{819714AA-0DD1-49C8-BA02-F1DD87140F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{819714AA-0DD1-49C8-BA02-F1DD87140F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2884290B-A983-4070-A661-10A215E6D9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2884290B-A983-4070-A661-10A215E6D9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2884290B-A983-4070-A661-10A215E6D9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2884290B-A983-4070-A661-10A215E6D9E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -119,6 +127,7 @@ Global
 		{BCF31128-75B2-4D83-B4FE-0D0B1754169D} = {C68ED3AC-636C-4B36-9EB6-5C46AAFF835A}
 		{4F25F310-3BF4-4672-A51D-282886070936} = {787915A3-C130-42A7-B821-036514EA4C92}
 		{819714AA-0DD1-49C8-BA02-F1DD87140F6E} = {1A046B98-BF1B-47FB-88E7-1567DD1A2EA3}
+		{2884290B-A983-4070-A661-10A215E6D9E6} = {6A10BF1F-3A90-49EA-9032-61300445EFB2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C9C18C5C-519E-4067-A174-F0621CA55259}
