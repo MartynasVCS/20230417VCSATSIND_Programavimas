@@ -31,6 +31,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Ivedimas", "04 Ivedimas"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoIvedimas", "DemoIvedimas\DemoIvedimas.csproj", "{3C1D5856-48EF-4E57-8626-D97C67A1C0D6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 If Salyga", "05 If Salyga", "{C68ED3AC-636C-4B36-9EB6-5C46AAFF835A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoIfSalyga", "DemoIfSalyga\DemoIfSalyga.csproj", "{BCF31128-75B2-4D83-B4FE-0D0B1754169D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +81,10 @@ Global
 		{3C1D5856-48EF-4E57-8626-D97C67A1C0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C1D5856-48EF-4E57-8626-D97C67A1C0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C1D5856-48EF-4E57-8626-D97C67A1C0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF31128-75B2-4D83-B4FE-0D0B1754169D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF31128-75B2-4D83-B4FE-0D0B1754169D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF31128-75B2-4D83-B4FE-0D0B1754169D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF31128-75B2-4D83-B4FE-0D0B1754169D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +100,7 @@ Global
 		{E83FA00D-067A-409E-AAEE-89338F6E0DF0} = {F59BDB76-3ECF-47D0-99BA-BAF1319CD86D}
 		{72A6F307-933D-40BF-92CB-CD09257D3CC0} = {F59BDB76-3ECF-47D0-99BA-BAF1319CD86D}
 		{3C1D5856-48EF-4E57-8626-D97C67A1C0D6} = {5737BB97-5228-4F69-BE3B-DE8C458182AA}
+		{BCF31128-75B2-4D83-B4FE-0D0B1754169D} = {C68ED3AC-636C-4B36-9EB6-5C46AAFF835A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C9C18C5C-519E-4067-A174-F0621CA55259}
