@@ -67,6 +67,11 @@ namespace DemoAritmetiniaiVeiksmai
             Console.WriteLine(++skaicius);
             Console.WriteLine(skaicius);
             Console.WriteLine();
+
+            // Įvairios matematinės operacijos
+            Console.WriteLine(Math.Pow(5, 3)); // kėlimas kubu
+            Console.WriteLine(Math.Sqrt(9)); // kvadratinė šaknis
+            Console.WriteLine(Math.Pow(125, (double)1/3)); // kubinė šaknis (keliam skaičių laipsniu 1/3)
         }
     }
 }
