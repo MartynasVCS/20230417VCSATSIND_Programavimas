@@ -19,7 +19,6 @@ namespace DemoIfSalyga
                 Console.WriteLine($"Taip, skaičius {skaicius} yra didesnis už 3");
                 Console.WriteLine();
             }
-            
 
             int amzius = 13;
             
@@ -38,6 +37,14 @@ namespace DemoIfSalyga
             else if (amzius > 10)
             {
                 Console.WriteLine("Žmogus jau nebe vaikas");
+            }
+            else if (amzius > 0)
+            {
+                Console.WriteLine("Žmogus dar vaikas");
+            }
+            else
+            {
+                Console.WriteLine("Įvestas netinkamas amžius");
             }
             Console.WriteLine();
 
