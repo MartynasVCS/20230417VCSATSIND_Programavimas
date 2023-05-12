@@ -87,6 +87,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10 Sarasai", "10 Sarasai", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSarasai", "DemoSarasai\DemoSarasai.csproj", "{7F577C74-65E0-435C-9A20-4CB119717094}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11 Metodai", "11 Metodai", "{5F9D00C9-FBD3-4217-A43C-5D3D4CA85425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMetodai", "DemoMetodai\DemoMetodai.csproj", "{7FAAF737-4EC1-4CCD-B1A6-354FB54908BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -217,6 +221,10 @@ Global
 		{7F577C74-65E0-435C-9A20-4CB119717094}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F577C74-65E0-435C-9A20-4CB119717094}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F577C74-65E0-435C-9A20-4CB119717094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FAAF737-4EC1-4CCD-B1A6-354FB54908BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAAF737-4EC1-4CCD-B1A6-354FB54908BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAAF737-4EC1-4CCD-B1A6-354FB54908BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAAF737-4EC1-4CCD-B1A6-354FB54908BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -253,6 +261,7 @@ Global
 		{E5B48983-696D-40B1-A08C-6DA383F20CB2} = {0BB5C9C2-8FAB-4D7C-B4DA-24624D490C06}
 		{F7EE8DAF-72A9-45FE-94CE-8223186996AA} = {356F8533-BF02-4795-B9DC-601BE16D5858}
 		{7F577C74-65E0-435C-9A20-4CB119717094} = {89309BC6-56AA-4D46-A6E8-C5F0CB1CBC9A}
+		{7FAAF737-4EC1-4CCD-B1A6-354FB54908BC} = {5F9D00C9-FBD3-4217-A43C-5D3D4CA85425}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C9C18C5C-519E-4067-A174-F0621CA55259}
