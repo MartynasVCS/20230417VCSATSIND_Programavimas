@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace DemoMasyvai
 {
@@ -45,6 +46,15 @@ namespace DemoMasyvai
             {
                 Console.WriteLine($"Ūgis: {ugis}");
             }
+            Console.WriteLine();
+
+            // Pirma reikšmė
+            Console.WriteLine(vaikuUgiai.First());
+            Console.WriteLine(vaikuUgiai[0]);
+
+            // Paskutinė reikšmė
+            Console.WriteLine(vaikuUgiai.Last());
+            Console.WriteLine(vaikuUgiai[vaikuUgiai.Length - 1]);
         }
     }
 }
