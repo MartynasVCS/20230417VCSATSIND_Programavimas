@@ -27,6 +27,11 @@ namespace DemoMetodai
             Console.WriteLine(Suma(5, 7));
             Console.WriteLine(Skirtumas(5, 7));
             Console.WriteLine();
+
+            // Nestatiniai metodų kvietimas
+            Program programa = new Program();
+            programa.SpausdintiTeksta("Labas");
+
         }
 
         // Metodas be parametru
@@ -64,6 +69,13 @@ namespace DemoMetodai
         static internal string PasisveikinimoFraze()
         {
             return "Labas rytas";
+        }
+
+        // Nestatinis metodas
+        // Tokiems metodams būtinas klasės objektas
+        internal void SpausdintiTeksta(string tekstas)
+        {
+            Console.WriteLine(tekstas);
         }
     }
 }
